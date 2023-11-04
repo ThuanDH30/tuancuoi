@@ -1,0 +1,8 @@
+Responsitory\FileCompressionRES.class
+Main.class
+view\Menu.class
+common\validate.class
+model\FileCompressionModel.class
+Responsitory\IFileCompressionRES.class
+controller\FileCompressController.class
+DataAccess\FileCompressionDao.class
